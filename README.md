@@ -18,4 +18,4 @@ We are a dutch IT-consulting firm that focusses on automatization, business acce
 You can contact us via
 Email: [info@absolum.nl](mailto:info@absolum.nl)
 Website: [absolum.nl](https://absolum.nl/Contact)
-Phone Number: [+31 6 42 36 47 88](callto:+31642364788)
+Phone Number: [+31 6 42 36 47 88](tel:+31642364788)
