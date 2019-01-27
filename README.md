@@ -7,23 +7,23 @@ automatization, business acceleration, cost saving, and friendly security.
 [Website](https://absolum.nl/)
 
 # Our Services
-##Consulting
+## Consulting
 
-##Automatization
+## Automatization
 
-##Cost saving
+## Cost saving
 
-##Bespoke-IT
+## Bespoke-IT
 
-##Security
+## Security
 
-##Training
+## Training
 
-##Webdesign
+## Webdesign
 
-##Programming
+## Programming
 
-##Computer Networking
+## Computer Networking
 
 # Contact us
 You can contact us via
