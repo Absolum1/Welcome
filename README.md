@@ -1,36 +1,27 @@
-# Welcome
-This is the GitHub page for Absolum.
-We are a dutch IT-consulting firm that focusses on:
+<p align="center"><a href="https://github.com/absolum1"
+target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absolum-min-1014x789.png"></a></p>
 
-automatization, business acceleration, cost saving, and friendly security.
 
-[Website](https://absolum.nl/)
+<h1 align="center">Absolum</h1>
 
-# Our Services
-## Consulting
 
-## Automatization
+<p align="center">Consulting, Security and Webdesign</p>
 
-## Cost saving
 
-## Bespoke-IT
+<p align="center"> 
+<a href="https://absolum.nl"><img src="https://img.shields.io/badge/website-absolum.nl-lightgrey.svg" alt="Website"></a>
+</p>
 
-## Security
 
-## Training
+## Welcome
+Welcome to Absolum's GitHub page, here we will share our all of our code via the MIT-License for all of you to use in your own projects.
 
-## Webdesign
 
-## Programming
 
-## Computer Networking
+## What code will Absolum share?
+We will try to share all the code and projects that we are working on, with or will in the future. The only code we won't share is code for our clients unless they specifically allow it to be shared.
 
-# Contact us
-You can contact us via
 
-Email: [info@absolum.nl](mailto:info@absolum.nl)
-
-Website: [absolum.nl](https://absolum.nl/Contact)
-
-Phone Number: [+31 6 42 36 47 88](tel:+31642364788)
-
+## Why the MIT-License
+It seems to fit most of our projects the best so we decided this would be the License we would use for everything.
+[MIT-License](https://absolum.nl/MIT-License)
