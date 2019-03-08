@@ -53,4 +53,4 @@ We will try to share all the code and projects that we are working on, with or w
 
 ## Why the MIT-License
 It seems to fit most of our projects the best so we decided this would be the License we would use for everything.
-[MIT-License](https://absolum.nl/MIT-License)
+[MIT-License](https://absolum.nl/Licenses)
